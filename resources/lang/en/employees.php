@@ -1,0 +1,31 @@
+<?php
+
+return[
+	'title'=>'employees',
+	'employees_page'=>'employees Page',
+	'employees_list'=>'employees List',
+	'employee_create'=>'employee Create',
+	'companie_create'=>'Companie Create',
+	'employee_edit'=>'Companie Edit',
+	'company'=>'Company',
+	'id'=>'Id',
+	'name'=>'Name',
+	'select_company'=>'Select Company',
+	'first_name'=>'First Name',
+	'last_name'=>'Last Name',
+	'phone'=>'Phone',
+	'address'=>'Address',
+	'email'=>'Email',
+	'action'=>'Action',
+	'collapse'=>'Collapse',
+	'add_employees'=>'Add New employees',
+	'remove'=>'Remove',
+	'view_employees'=>'View Companie',
+	'edit_employees'=>'Edit Companie',
+	'delete_employees'=>'Delete Companie',
+	'show_employee'=>'Show employee Details',
+	'cancel'=>'Cancel',
+	'save'=>'Save',
+	'clear'=>'Clear',
+
+];

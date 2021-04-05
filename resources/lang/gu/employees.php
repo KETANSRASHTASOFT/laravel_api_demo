@@ -1,0 +1,31 @@
+<?php
+
+return[
+	'title'=>'કર્મચારીઓ',
+	'employees_page'=>'કર્મચારીઓ પેજ',
+	'employees_list'=>'કર્મચારીઓની સૂચિ',
+	'employee_create'=>'કર્મચારી બનાવો',
+	'companie_create'=>'કંપની બનાવો',
+	'employee_edit'=>'કંપની સંપાદન',
+	'company'=>'કંપની',
+	'id'=>'આઈ.ડી.',
+	'name'=>'નામ',
+	'select_company'=>'કંપની પસંદ કરો',
+	'first_name'=>'પ્રથમ નામ',
+	'last_name'=>'છેલ્લું નામ',
+	'phone'=>'ફોન',
+	'address'=>'સરનામું',
+	'email'=>'ઇમેઇલ',
+	'action'=>'ક્રિયા',
+	'collapse'=>'પતન',
+	'add_employees'=>'નવા કર્મચારીઓ ઉમેરો',
+	'remove'=>'દૂર કરો',
+	'view_employees'=>'કર્મચારી જુઓ',
+	'edit_employees'=>'કર્મચારીને સંપાદિત કરો',
+	'delete_employees'=>'કર્મચારી કાઢી નાંખવું',
+	'show_employee'=>'કર્મચારીની વિગતો બતાવો',
+	'cancel'=>'રદ કરો',
+	'save'=>'સાચવો',
+	'clear'=>'ચોખ્ખુ',
+
+];
